@@ -12,6 +12,10 @@
 
 <p>Check out the live demo <a href="https://codepen.io/Yashi-Singh/pen/MWMWpMr">here</a>.</p>
 
+<h2>Credits</h2>
+
+<p> This search component is based on a design from <a href="https://100dayscss.com/days/29/">100 Days CSS Challenge - Day 29</a>, with modifications made to suit project requirements. </p>
+
 <h2>Prerequisites</h2>
 
 <ul>
